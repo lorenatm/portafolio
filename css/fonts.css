@@ -1,0 +1,24 @@
+@font-face{
+	font-family: Brandon_bld;
+	font-style: normal;
+	font-weight: normal;
+	src:url(../fonts/Brandon_bld.otf);
+}
+@font-face{
+	font-family: Brandon_light;
+	font-style: normal;
+	font-weight: normal;
+	src:url(../fonts/Brandon_light.otf);
+}
+@font-face{
+	font-family: Brandon_med;
+	font-style: normal;
+	font-weight: normal;
+	src:url(../fonts/Brandon_med.otf);
+}
+@font-face{
+	font-family: Brandon_reg;
+	font-style: normal;
+	font-weight: normal;
+	src:url(../fonts/Brandon_reg.otf);
+}
